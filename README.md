@@ -3,6 +3,7 @@
 Une appli console Java qui fait passer un quiz sur Linux/Git/Jenkins/Docker/DevOps, avec une chaîne CI/CD complète autour.
 
 Fonctionnalités : 
+
     F1 : Création de 20  question sur les themes : Linux, Git/GitHub, Jenkins, Docker et les principes DevOps. Chaque question possede 4 choix et une bonne réponse
 
     F2 : Permet au joueur de choisir une catégorie particulière ou un quiz général qui lui demande de repondre a 10 questions aléatoirement
